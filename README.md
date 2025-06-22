@@ -1,3 +1,3 @@
-# tu-outrearch-programn
+# tu-outrearch-program
 
-Summer outreach program conducted to high school students at TU ECE.
+A summer outreach program conducted for high school students at TU ECE.
