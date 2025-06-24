@@ -1,6 +1,6 @@
 // LCD Display Program
 
-#include <LiquidCrystal_I2C.h>
+#include "LiquidCrystal_I2C.h"
 
 // Initialize an LCD object.
 LiquidCrystal_I2C lcd(0x27, 16, 2);
